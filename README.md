@@ -5,7 +5,7 @@
 - `makefile` : Script de compilation et exécution.
 - `config1.json` : Fichier de configuration (points, capteurs, paramètres).
 
-- ## 🛠 Compilation
+- ##  Compilation
 
 Ouvre un terminal dans le dossier du projet, puis tape :
 
